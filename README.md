@@ -4,7 +4,7 @@ Polar Care is an app which addresses the negative impacts of climate change on p
 
 The program is written in python. you can download python here: https://www.python.org/downloads/
 
-The python file that you will need to run is called "PolarCare" (GFX-20180420T151239Z-001 > GFX)
+The python file that you will need to run is called "PolarCare.py" (GFX-20180420T151239Z-001 > GFX)
 
 After running the program, a window will open. there are 2 buttons, "start timer" and "store"
 
