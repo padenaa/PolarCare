@@ -17,3 +17,5 @@ In the store menu, there are 4 buttons, you could choose to "donate". This will 
 The "bear fact" button will open a new window which displayed facts that will raise awareness about the problems polar bears are facing due to climate change. The window will automatically close after 5 seconds
 
 The "mini game" button is aimed to visualize the problems polar bears are facing through an interactive mini game. The new window will include instructions on how to play the game. All you will need to do is to click on the seals to catch them. After the game is over, the window will automatically close.
+
+You can choose to return "home" to the main menu. 
